@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://192.168.137.1:8443/static/icon.png</string>
+					<string>https://github.com/d4v1-sudo/Scarlet-tests/raw/refs/heads/master/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://192.168.137.1:8443/static/icon.png</string>
+					<string>https://github.com/d4v1-sudo/Scarlet-tests/raw/refs/heads/master/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
